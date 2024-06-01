@@ -1,0 +1,75 @@
+.main {
+    display: flex;
+}
+
+.heading {
+    color: white;
+    margin-left: 2rem;
+}
+
+.heading > span:first-child {
+    font-size: 50%;
+}
+
+.mainMenu {
+    display: flex;
+}
+
+.content {
+    width: 100%;
+}
+
+.list {
+    height: 85dvh;
+    overflow-y: scroll;
+    width: 300px;
+    padding-right: 1rem;
+    padding-left: 2rem;
+    color: white;
+    
+}
+
+.list > p {
+    border-top: 1px solid gray;
+    font-weight: 600;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin: 0;
+    cursor: default;
+    font-weight: 500;
+}
+
+.list > p:hover {
+    background-color: white;
+    color: black;
+}
+
+.list::-webkit-scrollbar {
+    background-color: transparent;
+    width: 2px;
+}
+
+.list::-webkit-scrollbar-track {
+    background-color: gray;
+}
+
+.list::-webkit-scrollbar-thumb {
+    background-color: white;
+}
+
+.info {
+    margin-left: 2rem;
+    color: white;
+}
+
+.info h4 {
+    font-weight: 600;
+    font-size: larger;
+}
+
+.info li {
+    list-style-type: none;
+    position: relative;
+    left: -20px;
+}
+

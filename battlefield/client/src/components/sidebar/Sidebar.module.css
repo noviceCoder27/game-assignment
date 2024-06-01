@@ -1,0 +1,74 @@
+.sidebar {
+    width: 4vw;
+    min-width: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+    border-right: 2px solid #424e51;
+}
+
+.container {
+    margin: auto 0 auto 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+
+.img1 {
+    background-image: url("https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/601aafabd334e34cd4dbb8ba_side-menu__game-2.png");
+}
+
+.img2 {
+    background-image: url("https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/601aafab108eb6365513203b_side-menu__game.png");
+}
+
+.img3 {
+    background-image: url("https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/601aafac57edde91d49b301f_side-menu__game-1.png");
+    margin-left: 10px;
+}
+
+.img4 {
+    background-image: url("https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/601aafab2823bb5957cc1ffd_side-menu__game-3.png");
+}
+
+.img5 {
+    background-image: url("https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/601aafaa108eb614c813203a_side-menu__career.png");
+}
+
+.img6 {
+    background-image: url("https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/601aafab68a3c97a6a478b8d_side-menu__watch.svg");
+}
+
+.img7 {
+    background-image: url("https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/601aafab332f0ade9870b435_side-menu__news.svg");
+}
+
+
+.imgContainer {
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 2vw;
+    height: 5vh;
+}
+
+.currentImg {
+    border-left: 5px solid orangered;
+    position: relative;
+    left: -12px;
+}
+
+.switches {
+    margin-top: auto;
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    color: #9ea4a6;
+}
+
+.question {
+    font-size: 120%;
+}

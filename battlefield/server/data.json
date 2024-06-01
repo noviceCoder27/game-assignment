@@ -1,0 +1,163 @@
+[
+    {
+        "id":1,
+        "title": "LARGE SCALE BATTLES",
+        "heading": "LARGE SCALE BATTLES",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff4b7ac12aea80c7dc3e_quickmatch__image%20-%2028.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":2,
+        "title": "THE BATTLEFIELD",
+        "heading": "THE BATTLEFIELD",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff4bd27416d1abcfbacd_quickmatch__image%20-%2027.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":3,
+        "title": "CLOSE QUARTERS",
+        "heading": "CLOSE QUARTERS",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff4b92c130374d90bd57_quickmatch__image%20-%2025.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":4,
+        "title": "NIGHT OPERATIONS",
+        "heading": "NIGHT OPERATIONS",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff4c6c617707ef8e12d2_quickmatch__image%20-%2026.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":5,
+        "title": "NIGHT OPERATIONS LARGE",
+        "heading": "NIGHT OPERATIONS LARGE",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff4b7bd22eed7298cf0e_quickmatch__image%20-%2023.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":6,
+        "title": "NIGHT OPERATIONS INFANTRY",
+        "heading": "NIGHT OPERATIONS INFANTRY",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff4aeabe37e92e71e201_quickmatch__image%20-%2017.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":7,
+        "title": "CONQUEST",
+        "heading": "CONQUEST",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6039005bdcecc6b525432d64_quickmatch__image%20-%2015.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":8,
+        "title": "CONQUEST LARGE",
+        "heading": "CONQUEST LARGE",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff49dcecc634c2432a97_quickmatch__image%20-%2013.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":9,
+        "title": "CONQUEST SMALL",
+        "heading": "CONQUEST SMALL",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff49a1e39c6347466be9_quickmatch__image%20-%2010.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":10,
+        "title": "AIR SUPERIORITY",
+        "heading": "AIR SUPERIORITY",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff484177f04a151b38d1_quickmatch__image%20-%2009.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":11,
+        "title": "LEGACY OPERATIONS",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff476c61776e418e12cf_quickmatch__image%20-%2004.png",
+        "heading": "LEGACY OPERATIONS",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":12,
+        "title": "LEGACY OPERATIONS INFANTRY",
+        "heading": "LEGACY OPERATIONS INFANTRY",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff48d687fc845ad3f904_quickmatch__image%20-%2003.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":13,
+        "title": "CAPTURE THE FLAG",
+        "heading": "CAPTURE THE FLAG",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6039005a952b34110bbd012f_quickmatch__image%20-%2001.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":14,
+        "title": "CAREER ASSAULT LARGE",
+        "heading": "CAREER ASSAULT LARGE",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff476c61776e418e12cf_quickmatch__image%20-%2004.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":15,
+        "title": "CAREER ASSAULT SMALL",
+        "heading": "CAREER ASSAULT SMALL",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff484177f04a151b38d1_quickmatch__image%20-%2009.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":16,
+        "title": "TEAM DEATHMATCH",
+        "heading": "TEAM DEATHMATCH",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff49dcecc634c2432a97_quickmatch__image%20-%2013.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":17,
+        "title": "SQUAD OBLITERATION",
+        "heading": "SQUAD OBLITERATION",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff476c61776e418e12cf_quickmatch__image%20-%2004.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":18,
+        "title": "COMMANDER",
+        "heading":"COMMANDER",
+        "img":  "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff4bd27416d1abcfbacd_quickmatch__image%20-%2027.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":19,
+        "title": "RUSH",
+        "heading": "RUSH",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff4b7ac12aea80c7dc3e_quickmatch__image%20-%2028.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    },
+    {
+        "id":20,
+        "title": "OBLITERATION",
+        "heading": "OBLITERATION",
+        "img": "https://uploads-ssl.webflow.com/6013fff62154adaa4600f932/6038ff4b7ac12aea80c7dc3e_quickmatch__image%20-%2028.png",
+        "para": "Battlefield at its best. Conquest Small, Rush, and Obliteration, with a good balance between infantry and vehicle gameplay.",
+        "list": ["- Unite your team by setting the right orders","- Help your team with supplies and strikes at the enemy","- Keep the enemy Commander at bay to protect your team"]
+    }
+
+]

@@ -1,0 +1,17 @@
+html,body {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./assets//menu__background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100dvh;
+  width: 100%;
+  font-family: 'Rajdhani',sans-serif;
+  overflow: hidden;
+}

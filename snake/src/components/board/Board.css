@@ -1,0 +1,133 @@
+.row {
+    height: 35px;
+    display: flex;
+  }
+  
+
+  .board-content {
+    flex-grow: 1;
+    background-image: url('./../../assets/snake-bg.jpg');
+    background-size: contain;
+  }
+
+  .board {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .score {
+    position: relative;
+    top: 25rem;
+    left: 2rem;
+  }
+  .high-score {
+    position: relative;
+    top: 26rem;
+    left: 2rem;
+  }
+
+  .cell {
+    width: 35px;
+    height: 35px;
+    outline: 4px solid white;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    background-color: #d7a37c;
+  }
+  
+  .cell-green {
+    background-color: red;
+  }
+  
+  .cell-red {
+    background-color: green;
+  }
+  
+  .cell-purple {
+    background-color: green;
+  }
+
+  .start-btn,.end-btn {
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    font-weight: 600;
+  }
+
+  .start-btn {
+    background-color: lightgreen;
+  }
+
+  .end-btn {
+    background-color: lightpink;
+  }
+  
+  .hovereffect:hover {
+    filter: brightness(150%);
+  }
+  
+  .food-image {
+    width: 35px;
+    height: 35px;
+    object-fit:cover;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .cell,
+    .food-image {
+      width: 20px;
+      height: 20px;
+    }
+    .row {
+      height: 20px;
+      display: flex;
+    }
+    
+    .board {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  
+
+  @media only screen and (min-width: 601px) and (max-width: 992px) {
+    .cell,
+    .food-image {
+      width: 25px;
+      height: 25px;
+    }
+    .row {
+      height: 25px;
+      display: flex;
+    }
+    
+    .board {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  
+  @media only screen and (min-width: 993px) {
+    .cell,
+    .food-image {
+      width: 30px;
+      height: 30px;
+    }
+    .row {
+      height: 30px;
+      display: flex;
+    }
+    
+    .board {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  
